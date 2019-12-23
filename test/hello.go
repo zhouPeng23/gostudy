@@ -15,6 +15,7 @@ func TestHello(){
 	fmt.Println()
 	str := fmt.Sprintf("%d",weeks)
 	fmt.Println("str:",str)
+	fmt.Println("str:",str)
 
 
 }
