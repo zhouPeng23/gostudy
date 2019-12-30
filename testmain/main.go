@@ -8,5 +8,7 @@ func main() {
 	//test.TestClient()
 
 	test.TestXml()
+	//test.TestClient()
+	//test.TestClient()
 
 }
